@@ -1,0 +1,8 @@
+# robots.txt for groupgeros.com (static site)
+
+# Allow all user agents full access to public pages
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.groupgeros.com/sitemap.xml
